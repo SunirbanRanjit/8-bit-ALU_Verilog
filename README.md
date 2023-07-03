@@ -38,4 +38,5 @@ Basic operations are:
 | 1101  |   ALU_Out = A xnor B;
 
 | 1110  |   ALU_Out = 1 if A>B else 0;
+
 | 1111  |   ALU_Out = 1 if A=B else 0;
